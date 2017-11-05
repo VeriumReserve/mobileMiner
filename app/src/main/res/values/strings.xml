@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VeriumMiner</string>
+
+    <!--  -->
+
+    <!-- PoolsActivity activity -->
+    <string name="title_activity_pools">Select pool</string>
+    <string name="no_pools">No pools available</string>
+
+    <string name="action_refresh">Refresh</string>
+</resources>

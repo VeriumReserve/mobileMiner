@@ -1,0 +1,24 @@
+<resources>
+    <!-- Material icon values -->
+    <item name="icon_active_opacity" format="float" type="dimen">0.54</item>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- List item -->
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="list_item_icon_size">40dp</dimen>
+    <dimen name="list_item_horizontal_margin">16dp</dimen>
+    <dimen name="list_item_icon_to_text_margin">72dp</dimen>
+
+    <!-- Material text sizes -->
+    <dimen name="headline_text_size">24sp</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="text_view_text_size">18sp</dimen>
+    <dimen name="body_text_size">16sp</dimen>
+</resources>
